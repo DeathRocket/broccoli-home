@@ -1,0 +1,25 @@
+.title {
+    text-align: center;
+    line-height: 50px;
+    font-weight: bold;
+}
+
+
+
+.button {
+    border: 1px solid #eee;
+    border-radius: 0;
+    color: #999;
+    height: 40px;
+    line-height: 40px;
+    margin: 20px;
+}
+
+.send-btn {
+    width: 100%;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
